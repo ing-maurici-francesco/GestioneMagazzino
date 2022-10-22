@@ -1,0 +1,6 @@
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.csproj.AssemblyReference.cache
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.AssemblyInfoInputs.cache
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.AssemblyInfo.cs
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.csproj.CoreCompileInputs.cache
+C:\Users\MAURICI\source\repos\GestioneMagazzino\GestioneMagazzino\obj\Debug\net6.0\GestioneMagazzino.MvcApplicationPartsAssemblyInfo.cache
